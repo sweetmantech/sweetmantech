@@ -4,7 +4,7 @@
 
 I'm working on a decentralized toolkit for musicians. 🧰
 
-I used to work with [mint songs](https://zora.co/collections/0x2B5426A5B98a3E366230ebA9f95a24f09Ae4a584), helping musicians mint over 70,000+ music NFTs. 💿  
+I'm an independent software engineer. I used to work with [mint songs](https://zora.co/collections/0x2B5426A5B98a3E366230ebA9f95a24f09Ae4a584), helping musicians mint over 70,000+ music NFTs. 💿  
 
 In my free time, I like to [write](https://mirror.xyz/sweetman.eth), and build lots of side projects. Here are a few:
 
