@@ -9,6 +9,7 @@ I'm an independent software engineer. I used to work with [mint songs](https://z
 In my free time, I like to [write](https://mirror.xyz/sweetman.eth), and build lots of side projects. Here are a few:
 
 - [onchain-music-metadata](https://github.com/SweetmanTech/Onchain-Music-Metadata) (`npm i onchain-music-metadata`): the music nft metadata. Pioneered by [Catalog](https://catalog.works/) (built on [Zora](https://docs.zora.co/docs/intro)). 🎼
-- [nft-factory](https://github.com/SweetmanTech/nft-factory): custom smart contract factory on Polygon / Ethereum / Optimism / etc. 🎸
 - [raibowkit-token-gated](https://github.com/SweetmanTech/rainbowkit-token-gated): website for fans to claim your music nfts. built on [Rainbowkit](https://www.rainbowkit.com/). 🌈
+- [music-nft-factory-smart-contracts](https://github.com/SweetmanTech/music-nft-factory-smart-contracts): custom smart contract factory on Polygon / Ethereum / Optimism / etc. 🎸
+- [music-nft-factory-UI](https://github.com/SweetmanTech/music-nft-factory-UI): UI for [music-nft-factory-smart-contracts](https://github.com/SweetmanTech/music-nft-factory-smart-contracts). 🔮
 - [...](https://github.com/SweetmanTech?tab=repositories)
