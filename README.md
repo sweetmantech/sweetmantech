@@ -1,15 +1,12 @@
 # Hi there 👋
 
-## I'm a 20-year-old maker, and I love building things.
+## I'm a 26-year-old maker, and I love building music nfts. 🌛🔮🌜
 
-I work at [Worldcoin](https://worldcoin.org/), building the most scalable & private sybil-resistance solution. Before that I worked at [Showtime](https://showtime.io/?ref=miguel), an NFT social network.
+I'm working on a decentralized toolkit for musicians. 🧰💿 
+I used to work with [MintSongs](https://zora.co/collections/0x2B5426A5B98a3E366230ebA9f95a24f09Ae4a584), minting over 70,000+ music NFTs for musicians around the world. 
 
-On my free time, I like to [write](https://miguelpiedrafita.com/articles), and build lots of side projects. Here are a few:
+In my free time, I like to [write](https://mirror.xyz/sweetman.eth), and build lots of side projects. Here are a few:
 
-- [lil-web3](https://github.com/m1guelpf/lil-web3): Simple, intentionally-limited versions of web3 protocols & apps.
-- [connect4-sol](https://github.com/m1guelpf/connect4-sol): A hyper-optimised Connect 4 implementation on Solidity.
-- [php evm](https://github.com/m1guelpf/php-evm): An Ethereum Virtual Machine implementation on PHP (cuz why not).
-- [proof of kyc](https://github.com/m1guelpf/proof-of-kyc): UX-friendly sybil-resistance solution, powered by Stripe Identity.
-- [roam app](https://github.com/m1guelpf/roam-app): An iOS app for Roam Research, including a "Share to Roam" extension.
-- [Sitesauce](https://sitesauce.app): A one-click solution to create static sites from dynamic websites, and keep them updated.
-- [...](https://miguelpiedrafita.com/experiments)
+- [onchain-music-metadata](https://github.com/SweetmanTech/Onchain-Music-Metadata): standardized music nft metadata. Pioneered by [Catalog](https://catalog.works/) (built on [Zora](https://docs.zora.co/docs/intro)).
+- [raibowkit-token-gated](https://github.com/SweetmanTech/rainbowkit-token-gated): website for fans to claim your music nfts. built on [Rainbowkit](https://www.rainbowkit.com/).
+- [...](https://github.com/SweetmanTech?tab=repositories)
