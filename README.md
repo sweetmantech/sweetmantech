@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm a smart contract (solidity) + javascript engineer, and I love music nfts. 🌛🔮🌜
+## I'm the music nft engineer, and I love music nfts. 🌛🔮🌜
 
 I'm working on a decentralized toolkit for musicians. 🧰
 
