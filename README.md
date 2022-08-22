@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## 👁 am the 💿 nft 👨‍🔧, and I love music nfts. 🌛🔮🌜
+## 👁 am the 💿 nft 👨‍🔧, and 👁 💛 💿 nfts. 🌛🔮🌜
 
 I'm working on a decentralized toolkit for musicians. 🧰
 
