@@ -8,7 +8,7 @@ I'm a software engineer. I have worked with top music nft platforms (incl. [dece
 
 In my free time, I like to [write](https://mirror.xyz/sweetman.eth), and build lots of side projects. Here are a few:
 
-- [WAYSPACE](https://github.com/SweetmanTech/WAYSPACE): album + Zora Drops + 0xSplits + Bundles + Puzzle Unlock with [Jackintheway](https://twitter.com/jackintheway). 🧩
+- [WAYSPACE](https://github.com/SweetmanTech/WAYSPACE):  Zora Drops (Metadata Renderer) + 0xSplits + Bundles + Puzzle Unlock Album by [Jackintheway](https://twitter.com/jackintheway). 🧩
 - [onchain-music-metadata](https://github.com/SweetmanTech/Onchain-Music-Metadata) (`npm i onchain-music-metadata`): the music nft metadata. Pioneered by [Catalog](https://catalog.works/) (built on [Zora](https://docs.zora.co/docs/intro)). 🎼
 - [music-nft-factory-UI](https://github.com/SweetmanTech/music-nft-factory-UI): UI for [music-nft-factory-smart-contracts](https://github.com/SweetmanTech/music-nft-factory-smart-contracts) on Polygon / Ethereum / Optimism / etc. 🔮
 - [raibowkit-token-gated](https://github.com/SweetmanTech/rainbowkit-token-gated): website for fans to claim your music nfts. built on [Rainbowkit](https://www.rainbowkit.com/). 🌈
