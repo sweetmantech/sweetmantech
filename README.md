@@ -6,7 +6,7 @@ I'm working on a decentralized toolkit for musicians. 🧰
 
 I'm a software engineer. I have worked with top music nft platforms (incl. [decent](https://decent.xyz/), [vol_fm](https://www.voldao.xyz/#/), [mint songs](https://zora.co/collections/0x2B5426A5B98a3E366230ebA9f95a24f09Ae4a584) & more) helping musicians mint over 70,000+ music NFTs. 💿  
 
-In my free time, I like to [write](https://mirror.xyz/sweetman.eth) and [make YouTube videos](https://www.youtube.com/channel/UCs8lN2Bfhou5PTC34-Vt6_A), and build lots of side projects. Here are a few:
+In my free time, I like to [write](https://mirror.xyz/sweetman.eth) and make [YouTube videos](https://www.youtube.com/channel/UCs8lN2Bfhou5PTC34-Vt6_A), and build lots of side projects. Here are a few:
 
 - [Liquid-Splits](https://github.com/SweetmanTech/Liquid-Splits): 0xSplits with split recipients as NFT holders. 💸
 - [WAYSPACE](https://github.com/SweetmanTech/WAYSPACE):  Zora Drops (Metadata Renderer) + 0xSplits + Bundles + Puzzle Unlock Album by [Jackintheway](https://twitter.com/jackintheway). 🧩
