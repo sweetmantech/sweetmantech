@@ -11,6 +11,6 @@ In my free time, I like to [write](https://mirror.xyz/sweetman.eth), and build l
 - [WAYSPACE](https://github.com/SweetmanTech/WAYSPACE):  Zora Drops (Metadata Renderer) + 0xSplits + Bundles + Puzzle Unlock Album by [Jackintheway](https://twitter.com/jackintheway). 🧩
 - [The Merge Album](https://github.com/SweetmanTech/MERGE): Liquid Splits + Dynamic Metadata + EIP4399 `block.difficulty > 2**64` for PoW => PoS album by [Song A Day Mann](https://twitter.com/songadaymann). 🐼
 - [onchain-music-metadata](https://github.com/SweetmanTech/Onchain-Music-Metadata) (`npm i onchain-music-metadata`): the music nft metadata. Pioneered by [Catalog](https://catalog.works/) (built on [Zora](https://docs.zora.co/docs/intro)). 🎼
-- [music-nft-factory-UI](https://github.com/SweetmanTech/music-nft-factory-UI): UI for [music-nft-factory-smart-contracts](https://github.com/SweetmanTech/music-nft-factory-smart-contracts) on Polygon / Ethereum / Optimism / etc. 🔮
+- [Liquid-Splits](https://github.com/SweetmanTech/Liquid-Splits): 0xSplits with split recipients as NFT holders. 💸
 - [raibowkit-token-gated](https://github.com/SweetmanTech/rainbowkit-token-gated): website for fans to claim your music nfts. built on [Rainbowkit](https://www.rainbowkit.com/). 🌈
 - [...](https://github.com/SweetmanTech?tab=repositories)
