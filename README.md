@@ -8,6 +8,7 @@ I'm a software engineer. I have worked with top music nft platforms (incl. [dece
 
 In my free time, I like to [write](https://mirror.xyz/sweetman.eth), create [videos](https://www.youtube.com/channel/UCs8lN2Bfhou5PTC34-Vt6_A) & build lots of side projects. Here are a few:
 
+- [Buenos Aires Song Camp](https://github.com/SweetmanTech/BUENOS_AIRES_SONG_CAMP): Song Camp for Musicians in Buenos Aires. powered by [Optimism](https://www.optimism.io/). 🇦🇷
 - [The Pharmacy](https://github.com/SweetmanTech/PHARMACY-MINTING-PAGE): NFT Marketplace for Decentralized Record Labels by [ChillPill](https://twitter.com/iamchillpill). 💊
 - [Liquid-Splits](https://github.com/SweetmanTech/Liquid-Splits): 0xSplits with split recipients as NFT holders. 💸
 - [WAYSPACE](https://github.com/SweetmanTech/WAYSPACE):  Zora Drops (Metadata Renderer) + 0xSplits + Bundles + Puzzle Unlock Album by [Jackintheway](https://twitter.com/jackintheway). 🧩
