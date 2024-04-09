@@ -8,6 +8,7 @@ I'm a software engineer. I have worked with top music nft platforms (incl. [dece
 
 In my free time, I like to [write](https://mirror.xyz/sweetman.eth), create [videos](https://www.youtube.com/channel/UCs8lN2Bfhou5PTC34-Vt6_A) & build lots of side projects. Here are a few:
 
+- [El Niño Estrella](https://github.com/SweetmanTech/XCELENCIA): Smart Album by [Xcelencia](https://warpcast.com/xcelencia). [Try It](https://estrella.city/)
 - [Data Muse](https://github.com/crazzywizard/data-muse): ETH Denver 2024 Hackathon 2nd Place Winner for Base (consumer product), Arbitrum (nft) & XMTP (frames). [Try It](https://www.datamuse.xyz/)
 - [Zora Reward Leaderboard](https://github.com/SweetmanTech/zora-reward-leaderboard): tracking rewards earned by creators on Zora. [Try it](https://leaderboard.onchainmagic.xyz/).
 -  [Buenos Aires Song Camp](https://github.com/SweetmanTech/BUENOS_AIRES_SONG_CAMP): Song Camp for Musicians in Buenos Aires. powered by [Optimism](https://www.optimism.io/). 🇦🇷
