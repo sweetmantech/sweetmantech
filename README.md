@@ -5,9 +5,9 @@
 I'm working on a decentralized toolkit for musicians. 🧰
 
 I'm a software engineer. I have worked with top music nft platforms (incl. [mint songs](https://zora.co/collections/0x2B5426A5B98a3E366230ebA9f95a24f09Ae4a584), [decent](https://decent.xyz/), [chill pill](https://pharmacy.chillrx.io/) & more) and musicians like 
-- [Megan Thee Stallion](https://boa.megantheestallion.com/),
+- [Megan Thee Stallion](https://boa.megantheestallion.com/)
 - [Heno.](https://www.mynameisheno.xyz/)
-- [Xcelencia](https://www.estrella.city/). 💿  
+- [Xcelencia](https://www.estrella.city/)
 
 In my free time, I like to [write](https://mirror.xyz/sweetman.eth), create [videos](https://www.youtube.com/channel/UCs8lN2Bfhou5PTC34-Vt6_A) & build lots of side projects. Here are a few:
 
