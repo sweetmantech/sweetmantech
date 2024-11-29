@@ -2,7 +2,7 @@
 
 ## the dev for onchain music. 🌜🌞🌛
 
-I'm building on a toolkit for musicians on the superchain. 🧰
+I'm building a toolkit for musicians on the superchain. 🧰
 
 I'm a software engineer. I have worked with top onchain music platforms ([sonata](https://github.com/Coop-Records/sonata/), [mint songs](https://zora.co/collections/0x2B5426A5B98a3E366230ebA9f95a24f09Ae4a584), [decent](https://decent.xyz/), [chill pill](https://pharmacy.chillrx.io/) & more) and musicians like 
 - [Megan Thee Stallion](https://boa.megantheestallion.com/)
