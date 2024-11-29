@@ -1,6 +1,6 @@
-# Hi there 👋
+# i am sweetman.eth 👋
 
-## i am the dev for onchain music. 🌜🌞🌛
+## the dev for onchain music. 🌜🌞🌛
 
 I'm working on a decentralized toolkit for musicians. 🧰
 
