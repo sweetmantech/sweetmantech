@@ -1,4 +1,4 @@
-# Hi, I am sweetman.eth 👋
+# Hi, my name is Sweetman 👋
 
 ## the dev for onchain music. 🌜🌞🌛
 
