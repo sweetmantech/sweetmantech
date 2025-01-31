@@ -12,6 +12,7 @@ I'm a software engineer. I have worked with top onchain music platforms ([sonata
 
 In my free time, I like to [write](https://mirror.xyz/sweetman.eth), create [videos](https://www.youtube.com/channel/UCs8lN2Bfhou5PTC34-Vt6_A) & build lots of side projects. Here are a few:
 
+- [Recoup](https://github.com/recoupable?tab=repositories): AI tools and tech for the music industry. [Try It](https://www.recoupable.com/)
 - [Sonata](https://github.com/Coop-Records/sonata/): Discover Music on Farcaster. [Try It](http://sonata.tips/)
 - [El Niño Estrella](https://github.com/SweetmanTech/XCELENCIA): Smart Album by [Xcelencia](https://warpcast.com/xcelencia). [Try It](https://estrella.city/)
 - [Data Muse](https://github.com/crazzywizard/data-muse): ETH Denver 2024 Hackathon 2nd Place Winner for Base (consumer product), Arbitrum (nft) & XMTP (frames). [Try It](https://www.datamuse.xyz/)
