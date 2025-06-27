@@ -1,17 +1,16 @@
-# Hi, my name is Sweetman 👋
+# Hi, I am the dev for onchain music. 🌜🌞🌛
 
-## the dev for onchain music. 🌜🌞🌛
+I'm building the starter pack for musicians to publish onchain. 🧰
 
-I'm building the starter pack for creators on base and zora. 🧰
+I'm a software engineer. I have worked with top onchain music platforms ([in process](https://github.com/sweetmantech/in_process), [coop recs protocol](https://github.com/Coop-Records/coop-protocol), [sonata](https://github.com/Coop-Records/sonata/), [mint songs](https://zora.co/collections/0x2B5426A5B98a3E366230ebA9f95a24f09Ae4a584), [decent](https://decent.xyz/), [chill pill](https://pharmacy.chillrx.io/) & more) and musicians like 
 
-I'm a software engineer. I have worked with top onchain music platforms ([coop recs protocol](https://github.com/Coop-Records/coop-protocol), [sonata](https://github.com/Coop-Records/sonata/), [mint songs](https://zora.co/collections/0x2B5426A5B98a3E366230ebA9f95a24f09Ae4a584), [decent](https://decent.xyz/), [chill pill](https://pharmacy.chillrx.io/) & more) and musicians like 
-
-- [Heno.](https://www.mynameisheno.xyz/)
-- [LATASHÁ](https://github.com/SweetmanTech/IN_PROCESS)
+- [LATASHÁ](https://inprocess.fun)
 - [Xcelencia](https://www.estrella.city/)
+- [Heno.](https://www.mynameisheno.xyz/)
 
 In my free time, I like to [write](https://mirror.xyz/sweetman.eth), create [videos](https://www.youtube.com/channel/UCs8lN2Bfhou5PTC34-Vt6_A) & build lots of side projects. Here are a few:
 
+- [ In Process](https://github.com/sweetmantech/in_process): an onchain collective timeline for artists. [Try It](https://inprocess.fun)
 - [Recoup](https://github.com/recoupable?tab=repositories): AI tools and tech for the music industry. [Try It](https://www.recoupable.com/)
 - [Sonata](https://github.com/Coop-Records/sonata/): Discover Music on Farcaster. [Try It](http://sonata.tips/)
 - [El Niño Estrella](https://github.com/SweetmanTech/XCELENCIA): Smart Album by [Xcelencia](https://warpcast.com/xcelencia). [Try It](https://estrella.city/)
