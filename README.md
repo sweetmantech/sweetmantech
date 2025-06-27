@@ -4,7 +4,7 @@ I'm building the starter pack for musicians to publish onchain. 🧰
 
 I'm a software engineer. I have worked with top onchain music platforms ([in process](https://github.com/sweetmantech/in_process), [coop recs protocol](https://github.com/Coop-Records/coop-protocol), [sonata](https://github.com/Coop-Records/sonata/), [mint songs](https://zora.co/collections/0x2B5426A5B98a3E366230ebA9f95a24f09Ae4a584), [decent](https://decent.xyz/), [chill pill](https://pharmacy.chillrx.io/) & more) and musicians like 
 
-- [LATASHÁ](https://inprocess.fun)
+- [Latashá](https://inprocess.fun)
 - [Xcelencia](https://www.estrella.city/)
 - [Heno.](https://www.mynameisheno.xyz/)
 
